@@ -1,6 +1,6 @@
 # AINLI
 ## Dataset
-There are 2 dataset we used.
+There are two datasets we used.
 1. toy_CLK1.csv
 2. bindingDB_CLK1.csv
 
@@ -15,7 +15,7 @@ Meaning of pred: The DTI prediction value of the drug for the desired target.
 
 We hash the DTI predicted cutoff of the drug to 0.7.
 
-### Seed information
+### Seed Information
 The CLK1 related dataset was obtained from bindingDB database (bindingDB_CLK1.csv).
 
 
